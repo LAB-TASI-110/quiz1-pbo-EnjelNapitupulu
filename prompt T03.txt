@@ -1,0 +1,10 @@
+kerjakan
+laundry del itu sekali seminggu, di setiap asrama beda beda hari ngelaundry nya 
+minimal laundry itu 5 kg
+asrama ada lovelace hari rabu
+asrama simon laplace hari selasa
+asrama max planck hari rabu
+asrama nikola tesla hari selasa
+asrama archimedes, louis pasteur dan rusun 3 hari jumat
+per mahasiswa
+kode nya mana? sekalian inputannya
